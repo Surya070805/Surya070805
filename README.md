@@ -1,4 +1,4 @@
-![Banner Image](Data analyst.png)
+![Banner Image](W.Edward_deming.png)
 
 <h1 align="center">Hi 👋, I'm Surya Mitra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
